@@ -37,5 +37,4 @@ Login Details for Student: Use the student ID and Password which is done in the 
 
 Student Pincode for enroll Course Student: <Created in the above register process, So Refer stud profile.
 
-myGitHup Location:
-https://github.com/vinHome-2020/PHP_Study
+If you need any assistance , Reachout me adaikalaraj2020@yahoo.com.
